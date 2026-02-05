@@ -5,3 +5,8 @@ uvicorn
 fastapi
 python-dotenv
 joblib
+wordcloud
+seaborn
+
+
+
